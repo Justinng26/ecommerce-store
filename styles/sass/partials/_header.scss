@@ -6,12 +6,13 @@ header{
     display: flex;
     align-items: center;
     flex-wrap: wrap;
+    margin-top: 70px;
     .headerImgContainer {
-        width:55%;
+        width:45%;
     }
 
     .headerContentContainer {
-        width: 45%;
+        width: 55%;
         padding: 0 40px;
     }
 
